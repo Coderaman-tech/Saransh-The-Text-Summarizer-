@@ -2,9 +2,9 @@
 
 <img src="Media/logo.jpg"></img><br>
 
-In this project, we have made an automatic text summarizzer which summarizes different types of text data sources.
+In this project, we have made an automatic text summarizer which summarizes different types of text data sources.
 
- We make the system to generate a summary of the text and provide a JSON output for the same. Alternatively, if there are web articles, PDFs, etc uploaded by the educator, the solution is able to summarize the large content into bite-sized information.
+ We make the system to generate a summary of the text and provide a title and audio file for the same. Alternatively, if there are youtube video, PDFs, etc uploaded by the educator, the solution is able to summarize the large content into bite-sized information.
 
 
 ## API Reference
