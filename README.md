@@ -1,6 +1,6 @@
 #  Saransh- Text Summarizer
 
-<img src="Media/Screenshot (499).png"></img><br>
+<img src="Media/logo.jpg"></img><br>
 
 In this project, we have made an automatic text summarizzer which summarizes different types of text data sources.
 
