@@ -57,7 +57,7 @@ nltk.download('punkt')
  
 #  Telegram bot
 
-<img src="Media/Screenshot (501).jpg"></img><br>
+<img src="Media/bot.jpg"></img><br>
 
 
 ## 🛠 Skills
