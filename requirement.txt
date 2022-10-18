@@ -1,0 +1,14 @@
+# Automatically generated PIP requirements
+numpy
+requests
+convertapi
+gtts
+jsonpickle
+nltk
+openai
+pdfplumber
+pydaisi
+PyPDF2
+pyTelegramBotAPI
+wget
+youtube_transcript_api
